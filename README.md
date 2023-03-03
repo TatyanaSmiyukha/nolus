@@ -11,7 +11,7 @@ rm -rf $HOME/.nolus/data
 <h3>Donwload latest snapshot</h3>
 
 ```
-wget http://167.86.99.207/nolus/nolus-rila_2023-03-03.tar  | tar -xf - -C $HOME/.nolus
+wget http://85.190.246.119/nolus/nolus-rila_2023-03-03.tar | tar -xf - -C $HOME/.nolus
 mv $HOME/.nolus/priv_validator_state.json.backup $HOME/.nolus/data/priv_validator_state.json
 ```
 

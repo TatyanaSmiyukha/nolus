@@ -1,6 +1,6 @@
 <h2>Nolus latest snapshot</h2>
 
-<h3>Stop Nolus service and copy validator data</h3>
+<h3>Stop Nolus service and copy validator</h3>
 
 ```
 sudo systemctl stop nolusd
